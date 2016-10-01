@@ -10,7 +10,7 @@ alias fluxmorning="xflux -k 3400 -l 28 -g 77 &"
 alias fluxafternoon="xflux -k 3400 -l 28 -g 77 &"
 
 # Run flux during night in US (using Austin)
-alias fluxnight="xflux -k 3400 -l 30 -n 97 &"
+alias fluxnight="xflux -k 3400 -l 30 -g 97 &"
 
 
 ######################## vim ##################################
